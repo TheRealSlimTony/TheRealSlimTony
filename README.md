@@ -5,6 +5,9 @@ Currently, I'm deeply engrossed in the world of Python projects. My passion lies
 Skills: Python, SQL, C#
 
 
+Sites that are currently deployed: 
 
+https://www.sharesnippet.com
+https://topics-drc4.onrender.com/
 
 
