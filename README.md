@@ -7,7 +7,7 @@ Skills: Python, SQL, C#
 
 Sites that are currently deployed: 
 
-https://www.sharesnippet.com
-https://topics-drc4.onrender.com/
+- https://www.sharesnippet.com
+- https://topics-drc4.onrender.com/
 
 
