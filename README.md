@@ -9,5 +9,5 @@ Sites that are currently deployed:
 
 - https://www.sharesnippet.com
 - https://topics-drc4.onrender.com/
-
+- https://myaiui.azurewebsites.net/
 
