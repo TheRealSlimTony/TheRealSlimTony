@@ -7,7 +7,7 @@ Skills: Python, SQL, C#
 
 Sites that are currently deployed: 
 
-- [https://www.sharesnippet.com]
-- [https://topics-drc4.onrender.com/]
-- [https://myaiui.azurewebsites.net/]
+- [ShareSnippet](https://www.sharesnippet.com)
+- [Topics / random tests](https://topics-drc4.onrender.com/)
+- [MyAI](https://myaiui.azurewebsites.net/)
 
