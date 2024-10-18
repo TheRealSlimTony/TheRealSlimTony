@@ -6,7 +6,7 @@ Skills: Python, SQL, C#, JS, Swift, React, AZURE
 
 ### Sites that are currently deployed:
 
-- [ShareSnippet](https://www.sharesnippet.com): ShareSnippet is a tool that aids in documenting useful snippets with high efficiency and privacy when needed. It features CRUD functionalities and an API with GPT-4 for documentation if necessary.
+- [ShareSnippet](https://sharesnippet.azurewebsites.net/): ShareSnippet is a tool that aids in documenting useful snippets with high efficiency and privacy when needed. It features CRUD functionalities and an API with GPT-4 for documentation if necessary.
 - [MyAI](https://myaiui.azurewebsites.net/): MyAI is an advanced interactive chatbot designed to elevate customer experience by employing sophisticated dialogue management. It leverages a deep understanding of user queries to deliver contextually relevant answers, utilizing a hybrid database system that combines vector search for rapid query handling and relational storage for transactional integrity. Architecturally, MyAI distinguishes between frontend and backend to optimize continuous integration and continuous deployment processes, enhancing security through robust measures like JWT authentication, encrypted session IDs, and securely hashed passwords.
 - [CinepolisWebScrapper](https://cinepolisscrapperui.azurewebsites.net/) is a real-time scraper for Cinepolis schedules in Costa Rica, currently covering 3 cinemas.
   The backend API is developed separately.
