@@ -1,5 +1,5 @@
 ### Hi there!
-#### I'm a Python Developer & ios Developer
+#### I'm a Python & ios Developer
 Currently, I'm deeply engrossed in the world of Python projects. My passion lies in crafting dynamic APIs with FastAPI, harnessing the power of Django to create robust web applications, and mastering various automation techniques when necessary. Exploring these technologies not only ignites my curiosity but also fuels my drive to create innovative solutions. Most of my applications are built using microservices, allowing for efficient scaling and flexibility. I'm excited to continue my journey in the realm of programming, continuously learning and pushing boundaries.
 
 Skills: Python, SQL, C#, JS, Swift, React, AZURE, CI/CD, Docker
