@@ -6,12 +6,15 @@ Skills: Python, SQL, C#, JS, Swift, React, AZURE, CI/CD, Docker
 
 ### Sites that are currently deployed:
 
-- [ShareSnippet](https://sharesnippet.azurewebsites.net/): ShareSnippet is a tool that aids in documenting useful snippets with high efficiency and privacy when needed. It features CRUD functionalities and an API with GPT-4 for documentation if necessary.
+- [ShareSnippet](https://sharesnippet.azurewebsites.net/): ShareSnippet is a tool that aids in documenting useful snippets with high efficiency and privacy when needed. It features CRUD functionalities and an API with GPT-4 for documentation if necessary. (currently decommissioned)
 - [MyAI](https://myaiui.azurewebsites.net/): MyAI is an advanced interactive chatbot designed to elevate customer experience by employing sophisticated dialogue management. It leverages a deep understanding of user queries to deliver contextually relevant answers, utilizing a hybrid database system that combines vector search for rapid query handling and relational storage for transactional integrity. Architecturally, MyAI distinguishes between frontend and backend to optimize continuous integration and continuous deployment processes, enhancing security through robust measures like JWT authentication, encrypted session IDs, and securely hashed passwords.
 - [CinepolisWebScrapper](https://cinepolisscrapperui.azurewebsites.net/) is a real-time scraper for Cinepolis schedules in Costa Rica, currently covering 3 cinemas.
   The backend API is developed separately.
 - [piplogistic](https://www.piplogistic.com/) An engaging fitness tracker designed for weight lifting enthusiasts. Track your progress through intuitive and visually appealing graphs. Please note that the app is currently under development and more features are coming soon. (We are currently developing an iOS app in response to user requests)
+
+  * update on piplogistic, I have created UAU, which is an IOS app [UAU](https://uau-app.com/home-app) is a work on progress, I will keep working on it on years to come.
+
   
-- [Topics / random tests](https://topics-drc4.onrender.com/): Just ignore this; it's where I sometimes run proof of concepts that are already deployed in production.
+- [Topics / random tests](https://topics-drc4.onrender.com/): Just ignore this; it's where I sometimes run proof of concepts that are already deployed in production. (currently decommissioned)
 
 
